@@ -31,6 +31,7 @@ This project combines two powerful capabilities:
 - Microphone access
 - Audio output capabilities
 - FFmpeg (for audio processing)
+  
 
 **Workflow:**
 1. Records audio for 10 seconds from default microphone
